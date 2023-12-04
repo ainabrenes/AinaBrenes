@@ -19,7 +19,9 @@ Perfil de Aina Brenes Forteza
 
 Educación 📚
 -Cursando la Formación Profesional Superior en Desarrollo de Aplicaciones Multiplataforma
+
 -Educación Secundaria Obligatoria (ESO)
+
 -Formación Profesional Media en Sistemas Microinformáticos y Redes
 
 Actualidad💼: Adquiriendo habilidades avanzadas en el desarrollo de software, haciendo especial énfasis en la creación de aplicaciones compatibles con diferentes plataformas.
